@@ -1,9 +1,9 @@
 {
-    "name": "address-client",
-    "version": "0.0.0",
-    "homepage": "http://www.youtube.com/watch?v=cDuG95DXbw8",
+    "name": "address-js",
+    "version": "1.0.0",
+    "homepage": "https://github.com/nfeio/address-js",
     "author": {
-        "name": "Obi-Wan Kenobi"
+        "name": "Gabriel Marquez"
     },
     "dependencies": {},
     "devDependencies": {
