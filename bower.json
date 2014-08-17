@@ -1,0 +1,10 @@
+{
+  "name": "address-client",
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~1.21.4",
+    "requirejs": "~2.1.14",
+    "chai": "~1.9.1"
+  }
+}
